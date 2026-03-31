@@ -9,7 +9,11 @@
 This is the continuation of the previous Hospitality Analysis project, using Python. I have further analysed the Hotel’s dataset using Power BI and generated a few more insights.
 
 ### Interactive Dashboard Link:
-https://app.powerbi.com/groups/me/reports/940bb51d-607f-416d-9ccd-4fe677a8cb6e/659f02fe683088e658db?experience=power-bi 
+[click here] (https://app.powerbi.com/groups/me/reports/940bb51d-607f-416d-9ccd-4fe677a8cb6e/659f02fe683088e658db?experience=power-bi)
+
+### Interactive Link:
+[Click here]
+
 
 ### ✅ Problem statement:
 
