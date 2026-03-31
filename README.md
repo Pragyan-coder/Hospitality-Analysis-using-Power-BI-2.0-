@@ -58,7 +58,6 @@ Mock-up review discussion with stakeholders, so the project aligns with their vi
 
 <img width="1276" height="717" alt="2  Main Db" src="https://github.com/user-attachments/assets/40158028-2d68-4f22-9f55-47d90441af75" />
 
-
 <img width="1271" height="717" alt="3  Chart" src="https://github.com/user-attachments/assets/dd314a83-0a6b-40d0-8907-4ccde8a42b4e" />
 
 -	The City of Berlin generates the highest revenue of (669 M), followed by Heidelberg and Nuremberg.
@@ -73,4 +72,4 @@ Mock-up review discussion with stakeholders, so the project aligns with their vi
 
 👩‍💻 Author: Pragyan Saikia
 
-📧 Email: [pragyan.saikia04@gmail.com
+📧 Email: pragyan.saikia04@gmail.com
