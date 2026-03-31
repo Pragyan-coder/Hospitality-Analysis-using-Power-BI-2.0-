@@ -9,19 +9,8 @@
 This is the continuation of the previous Hospitality Analysis project, using Python. I have further analysed the Hotel’s dataset using Power BI and generated a few more insights.
 
 ### Interactive Dashboard Link:
-[click here] (https://app.powerbi.com/groups/me/reports/940bb51d-607f-416d-9ccd-4fe677a8cb6e/659f02fe683088e658db?experience=power-bi)
-
-- [Click here to View](https://app.powerbi.com/groups/me/reports/a279e09f-b6c5-4fb8-9bb7-84f847938e58/f08df47f646660abe7b7?experience=power-bi)
-
-- [Click here to View](https://app.powerbi.com/groups/me/reports/940bb51d-607f-416d-9ccd-4fe677a8cb6e/659f02fe683088e658db?experience=power-bi)
-
-- [click]<iframe title="Hospitality analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2JkMmEyOWYtZTg4NS00ZDg5LWFjZmYtMmE0NGE4YWM4Mzg5IiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 - [Click Here to View](https://app.powerbi.com/view?r=eyJrIjoiY2JkMmEyOWYtZTg4NS00ZDg5LWFjZmYtMmE0NGE4YWM4Mzg5IiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
-
-### Interactive Link:
-[Click here]
-
 
 ### ✅ Problem statement:
 
@@ -68,6 +57,7 @@ Mock-up review discussion with stakeholders, so the project aligns with their vi
 ### Some Important Insights from the Dashboard:
 
 <img width="1276" height="717" alt="2  Main Db" src="https://github.com/user-attachments/assets/40158028-2d68-4f22-9f55-47d90441af75" />
+
 
 <img width="1271" height="717" alt="3  Chart" src="https://github.com/user-attachments/assets/dd314a83-0a6b-40d0-8907-4ccde8a42b4e" />
 
